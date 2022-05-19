@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ramoulow
 - 👀 I’m interested in ... too many things to describe here.
 - 🌱 I’m currently learning ... from ashes.
-- 💞️ I’m looking to collaborate on ... barely anything alowwing me to learn
+- 💞️ I’m looking to collaborate on ... barely anything alowing me to learn
 - 📫 How to reach me ... 
 
 <!---
